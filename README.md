@@ -1,5 +1,5 @@
 
-# Azure Load Balancer Assignment – Full Setup Guide with Explanation
+# Azure Load Balancer 
 
 This document provides a **complete step-by-step guide** to creating and verifying both **External (Public)** and **Internal (Private)** Load Balancers in Microsoft Azure using Linux VMs. It includes configuration steps, explanation of each component, and screenshot suggestions for reporting or GitHub submission.
 
