@@ -143,19 +143,7 @@ curl http://10.0.1.100
 
 ---
 
-## 📦 Suggested GitHub Repo Files
 
-| File Name                  | Description                                 |
-|---------------------------|---------------------------------------------|
-| `README.md`               | Full documentation                         |
-| `external-lb-test.png`    | Browser screenshot of external LB test     |
-| `internal-lb-curl.png`    | Terminal curl test to internal LB IP       |
-| `apache-running.png`      | Apache home page on VM                     |
-| `backend-pool.png`        | Backend pool with VMs added                |
-| `frontend-ip-config.png`  | Frontend config for both LBs               |
-| `load-balancing-rule.png` | Load balancing rule for port 80            |
-
----
 
 ## 🏁 Final Thoughts
 - You’ve successfully created a complete load-balanced architecture in Azure
@@ -166,3 +154,5 @@ Feel free to build upon this setup with:
 - Auto-scaling VM scale sets
 - Application Gateway with HTTPS termination
 - Integration with Azure Monitor or Application Insights
+
+
