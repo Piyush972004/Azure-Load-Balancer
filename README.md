@@ -155,4 +155,35 @@ Feel free to build upon this setup with:
 - Application Gateway with HTTPS termination
 - Integration with Azure Monitor or Application Insights
 
+## LIVE DEMO : 
+## Virtual Machine (With Virtual Network : MyVNet  , Subnet : 10.0.1.0/24 )
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20184202.png)
+
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20184213.png)
+
+## Public IPs
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20184224.png)
+
+## External Load Balancer 
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20180749.png)
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20180758.png)
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20180819.png)
+
+## VM With Apache running RESULT 
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20180715.png)
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20180730.png)
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20180837.png)
+
+## Internal Load Balancer 
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20184050.png)
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20184056.png)
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20184105.png)
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20184114.png)
+
+## Balancing 
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20184148.png)
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20184020.png)
+![Homepage Screenshot](assets/Screenshot%202025-07-04%20184034.png)
+
+
 
